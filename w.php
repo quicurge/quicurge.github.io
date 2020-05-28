@@ -32,11 +32,11 @@
         
         </div>
 
-        
+        <!--
         <script>
             setTimeout(function(){window.location.replace('https://www.instagram.com/cameradinfata/');}, 2500);
         </script>
-    
+    	-->
 
 </body>
 </html>
